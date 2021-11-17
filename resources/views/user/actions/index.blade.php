@@ -1,0 +1,1 @@
+<a href="{{ route('user.role', encrypt($q->id)) }}" class="btn btn-sm btn-primary">Pengaturan</a>
